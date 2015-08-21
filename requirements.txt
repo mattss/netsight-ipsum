@@ -1,0 +1,10 @@
+Flask==0.10.1
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.10.4
+beautifulsoup4==4.4.0
+html2text==2015.6.21
+itsdangerous==0.24
+nltk==3.0.4
+requests==2.7.0
+wsgiref==0.1.2
